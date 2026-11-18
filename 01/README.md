@@ -7,6 +7,8 @@
 - **Program Studi:** Informatika
 - **Universitas:** Universitas Teknologi Digital Indonesia (UTDI) Yogyakarta
 - # MODUL 1 – Pengenalan Sistem Terdistribusi dan Terdesentralisasi
+- Promt:buatkan saya ringkasan atau rangkuman dari  modul 1 di atas(pakai AI GPT)
+- Promt:tolong ubah format ini ke bentuk format markdown REDMI.md GitHub (pakai Gemini AI)
 
 ## 1. Pengertian Sistem Terdistribusi
 **Sistem terdistribusi** merupakan sekumpulan komputer atau *node* yang saling terhubung melalui jaringan dan bekerja sama untuk menjalankan suatu sistem secara keseluruhan. Meskipun terdiri dari beberapa komputer yang berbeda, pengguna melihatnya seolah-olah sebagai satu sistem yang utuh.
