@@ -8,7 +8,7 @@
 - **Universitas:** Universitas Teknologi Digital Indonesia (UTDI) Yogyakarta
 - # MODUL 2 – Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi
 - Promt:buatkan saya ringkasan atau rangkuman dari  modul 2 di atas(pakai AI GPT)
-- Promt:tolong ubah format ini ke bentuk format markdown REDMI.md GitHub (pakai Gemini AI)
+- Promt:tolong ubah format ini ke bentuk format markdown README.md GitHub (pakai Gemini AI)
 - # MODUL 2 – Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi
 
 ## 1. Pengertian Proses
